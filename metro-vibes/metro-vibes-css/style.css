@@ -1,10 +1,10 @@
 /*
 Kit Name: Metro Vibes
-Kit URI: http://pixelkit.com
+Kit URI: http://pixelkit.com/kits/metro-ui-kit
 Description: 100+ elements
 Version: 1.0
-Author: ThemeFuse
-Author URI: http://themefuse.com
+Author: PixelKit
+Author URI: http://pixelkit.com
 
 CSS STRUCTURE:
 
@@ -101,7 +101,7 @@ body {
     color:#8e8071;
 	font-size:13px;
 	position:relative;
-    background: url(images/bg.png) center top repeat;
+    background: #aa8a6e url(images/bg.jpg) center top repeat;
     background-size: 100% 100%;
 }
 ::-moz-selection {
